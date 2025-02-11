@@ -1,3 +1,7 @@
+# Clone do twitter
+
+vídeo utilizado: https://www.youtube.com/watch?v=MZvmYaFkNJI
+
 # Chirp
 
 To start your Phoenix server:
